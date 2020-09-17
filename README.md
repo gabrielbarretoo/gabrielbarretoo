@@ -1,6 +1,7 @@
 # Hi, I'm Gabriel Barreto 🖥
 
 [![LinkedIn](https://img.shields.io/static/v1?label=LinkedIn&message=%20&color=blue&logo=LinkedIn&style=flat-square&logoColor=white)](https://www.linkedin.com/in/gabriel-barreto-de-oliveira-aba6a51b0/)
+[![gabriel.barreto123@gmail.com](https://img.shields.io/static/v1?label=gabriel.barreto123@gmail.com&message=%20&color=red&logo=Gmail&style=flat-square&logoColor=white)](https://github.com/gabrielbarretoo/)
 
 ## About me
 
