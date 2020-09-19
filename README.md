@@ -7,9 +7,9 @@
 
 ## About me
 
-:man_technologist: <strong>I'm a Fullstack Developer</strong>
+💻 <strong>I'm a Fullstack Developer</strong>
 
-🔭 <strong>I'm currently working as a freelancer and on personal projects</strong>
+👷‍♂️<strong>I'm currently working as a freelancer and on personal projects</strong>
 
 🚀 **And, I'm participating in [Rocketseat's](https://rocketseat.com.br/) GoStack Bootcamp. Deepening my knowledge of DDD, TDD, SOLID, back-end concepts, database structure, stylized components, hooks, states and more**
 
