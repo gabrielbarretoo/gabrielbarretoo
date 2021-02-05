@@ -9,9 +9,9 @@
 
 💻 <strong>Fullstack Developer</strong>
 
-👷‍♂️<strong>Currently working as a freelancer and on personal projects</strong>
+👷‍♂️<strong>Currently working at Foz do Iguaçu City Hall (Director at Software Engineering Department)</strong>
 
-🚀 **Participating in [Rocketseat's](https://rocketseat.com.br/) GoStack Bootcamp. Deepening my knowledge of DDD, TDD, SOLID, back-end concepts, database structure, stylized components, hooks, states and more**
+🚀 **Participated in [Rocketseat's](https://rocketseat.com.br/) GoStack Bootcamp, where I learned DDD, TDD, SOLID, back-end concepts, database structure, stylized components, hooks, states and more**
 
 ## Knowledge
 
