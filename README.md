@@ -1,6 +1,5 @@
 # Hi, I'm Gabriel Barreto 🖥
 
-> The world ain’t all sunshine and rainbows. It’s a very mean and nasty place and I don’t care how tough you are it will beat you to your knees and keep you there permanently if you let it. You, me, or nobody is gonna hit as hard as life. But it ain’t about how hard ya hit. It’s about how hard you can get hit and keep moving forward. How much you can take and keep moving forward. That’s how winning is done! - Rocky Balboa
 
 [![LinkedIn](https://img.shields.io/static/v1?label=LinkedIn&message=%20&color=blue&logo=LinkedIn&style=flat-square&logoColor=white)](https://www.linkedin.com/in/gabriel-barreto-de-oliveira-aba6a51b0/)
 [![gabriel.barreto123@gmail.com](https://img.shields.io/static/v1?label=gabriel.barreto123@gmail.com&message=%20&color=red&logo=Gmail&style=flat-square&logoColor=white)](https://github.com/gabrielbarretoo/)
@@ -74,3 +73,6 @@
 
 - [![Discord](https://img.shields.io/badge/-Discord-000000?style=flat&logo=Discord&link=https://github.com/gabrielbarretoo/)](https://github.com/gabrielbarretoo/)
 
+
+
+> The world ain’t all sunshine and rainbows. It’s a very mean and nasty place and I don’t care how tough you are it will beat you to your knees and keep you there permanently if you let it. You, me, or nobody is gonna hit as hard as life. But it ain’t about how hard ya hit. It’s about how hard you can get hit and keep moving forward. How much you can take and keep moving forward. That’s how winning is done! - Rocky Balboa
